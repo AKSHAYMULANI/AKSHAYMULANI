@@ -13,7 +13,8 @@
 
 - 🤝 I’m looking for help with **React.js Jobs**
 
-- 💬 Ask me about **HTML,CSS,JavaScripts, and React.**
+- 💬 Ask me about **HTML,CSS,JavaScripts, and React JS, React Router, AXIOS, Chakra UI, Private
+Routes, Context API and Third Party API Configuration.**
 
 - 📫 How to reach me **Akshay.hr.di@gmail.com**
 
