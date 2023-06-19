@@ -1,5 +1,7 @@
 ![MasterHead](https://i.imgur.com/nV6eeEC.png)
 
+<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AKSHAYMULANI&layout=compact&langs_count=7&theme=dracula"/>
+
 <h1 align="center">Hi 👋, I'm Akshay Mulani</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
