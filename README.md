@@ -20,7 +20,8 @@ Routes, Context API,Node.JS, Express.js,Nest.js, MongoDb and Third Party API Con
 
 - ⚡ Fun fact **My favorite subject in school was Math's, which is why I decided to become a Engineer. But I select IC Field After 12th Science. But,Now I am Softwere Engineer.**
 
-<!-- <h3 align="left">Connect with me:</h3>
+<!-- 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-mulani-219363187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-mulani-219363187" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akshaymulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshaymulani" height="30" width="40" /></a>
