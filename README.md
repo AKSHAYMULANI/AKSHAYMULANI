@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymulani&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymulani" /> </p>
 
-- 👯 I’m looking to collaborate on **React.js, Node.JS, Express.js,Nest.js and MongoDb Projects**
+- 👯 I’m looking to collaborate on **React.js, NEXT JS, Node.JS, Express.js,Nest.js, and MongoDb Projects**
 
 - 🤝 I’m looking for help with **React.js Jobs**
 
-- 💬 Ask me about **HTML,CSS,JavaScripts, and React JS, React Router, AXIOS, Chakra UI, Private
+- 💬 Ask me about **HTML,CSS,JavaScripts, and React JS,NEXT JS, Tailwind CSS, React Router, AXIOS, Chakra UI, Private
 Routes, Context API,Node.JS, Express.js,Nest.js, MongoDb and Third Party API Configuration.**
 
 - 📫 How to reach me **Akshay.hr.di@gmail.com**
 
-- ⚡ Fun fact **My favorite subject in school was Math's, which is why I decided to become a Engineer. But I select IC Field After 12th Science. But,Now I am in IT Field.**
+- ⚡ Fun fact **My favorite subject in school was Math's, which is why I decided to become a Engineer. But I select IC Field After 12th Science. But,Now I am Softwere Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
